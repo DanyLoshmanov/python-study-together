@@ -1,4 +1,3 @@
-def load():
-    print("Привет Данил")
-
-load()
+class load:
+    def __init__(self):
+        pass
